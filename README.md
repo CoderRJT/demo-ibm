@@ -1,2 +1,2 @@
 # demo-ibm
-IBM course demo repository
+IBM course demo repository ver1
